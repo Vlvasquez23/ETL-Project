@@ -87,6 +87,8 @@ Please upload the report to Github and submit a link to Bootcampspot.
 * [2019.csv](./Resources/2019.csv)
 
 ## Data Clean-Up
+We chose to use PgAdmin instead of Mongo due to the flexiability of formatting tables. 
+
 We performed our ETL data on the 2018 and 2019 csv file. We cleaned our data by using jupyter notebook to drop columns to create a new data set with select column of Overall rank, Country or region & score. We then merged our two data sets and added a “Year” column to differentiate which data was for 2018 and 2019. After connecting to our local postgres database we created our tables and columns into pgadmin.
 
 After checking for tables we used pandas to load our new 2018 & 2019 csv/json converted DataFrame into the database. We then confirmed that the data has been added by querying the 2018 & 2019 table.
