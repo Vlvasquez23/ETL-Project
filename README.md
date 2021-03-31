@@ -102,8 +102,7 @@ After checking for tables we used pandas to load our new 2018 & 2019 csv/json co
 
 ## Code
 * [Data_ETL_World_Happiness.ipynb](Data_ETL_World_Happiness.ipynb)
-* [year_2018.sql](./Resources/year_2018.sql)
-* [year_2019.sql](./Resources/year_2019.sql)
+* [create_tables.sql](create_table.sql)
 
 ## Status
 Project Complete
