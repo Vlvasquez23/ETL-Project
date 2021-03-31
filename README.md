@@ -77,12 +77,12 @@ Please upload the report to Github and submit a link to Bootcampspot.
 * Tech 2 - PgAdmin
 * Tech 3 - GitHub
 
-## Source
+## Sources
 [Kaggle](https://www.kaggle.com/unsdsn/world-happiness/activity)
 
 * https://www.kaggle.com/unsdsn/world-happiness/activity
-* (./Resources/2018.csv)
-* (./Resources/2019.csv)
+* [2018.csv](2018.csv)
+* [2019.csv](2019.csv)
 
 ## Data Clean-Up
 We performed our ETL data on the 2018 and 2019 csv file. We cleaned our data by using jupyter notebook to drop columns to create a new data set with select column of Overall rank, Country or region & score. We then merged our two data sets and added a “Year” column to differentiate which data was for 2018 and 2019. After connecting to our local postgres database we created our tables and columns into pgadmin.
