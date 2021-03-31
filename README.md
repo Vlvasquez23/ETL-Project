@@ -113,5 +113,5 @@ Project Complete
 * [README.md Template Inspiration ](https://github.com/ritaly/README-cheatsheet/edit/master/README.md) 
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Project inspired by... achieving an A+
 
