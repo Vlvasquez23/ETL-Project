@@ -96,7 +96,7 @@ After checking for tables we used pandas to load our new 2018 & 2019 csv/json co
 ![ETLwithPandas.PNG](./images/ETLwithPandas.PNG)
 ![postgresSQL2.png](./images/postgresSQL2.png)
 ![jupnote.png](./images/jupnote.png)
-![jup2.png](./images/jup2.png)
+![jup2.PNG](./images/jup2.PNG)
 
 ## Code
 * [Data_ETL_World_Happiness.ipynb](Data_ETL_World_Happiness.ipynb)
