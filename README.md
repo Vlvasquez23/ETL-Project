@@ -12,7 +12,7 @@
 
 ## Table of contents
 * [Project Proposal](#Project-Proposal)
-* [Screenshots](#screenshots)
+* [Getting Started](#Getting-Started)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -69,13 +69,13 @@ Please upload the report to Github and submit a link to Bootcampspot.
 
 - - - - - - - - - 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+# Getting Started
+![started.jpg](./images/started.jpg)
 
 ## Technologies
-* Tech 1 - version 1.0
+* Tech 1 - 
 * Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Tech 3 - 
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
