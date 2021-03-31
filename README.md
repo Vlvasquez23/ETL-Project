@@ -6,9 +6,9 @@
 ![joy.jpg](./images/joy.jpg)
 
 ## Team Members: 
-* Dustin Osterman
-* Mary Scruggs
-* Vanessa Vasquez
+* [Dustin Osterman](https://github.com/dosterman09)
+* [Mary Scruggs](https://github.com/mcasiano1)
+* [Vanessa Vasquez](https://github.com/Vlvasquez23)
 
 ## Table of contents
 * [Project Proposal](#Project-Proposal)
@@ -17,6 +17,9 @@
 * [Sources](#sources)
 * [Data Clean-Up](#data-clean-up)
 * [ETL Visualization](#ETL-Visualization)
+* [Code](#Code)
+* [Status](#Status)
+* [Acknowledgement](#Acknowledgement)
 * [Inspiration](#inspiration)
 
 # Project Proposal
@@ -72,9 +75,9 @@ Please upload the report to Github and submit a link to Bootcampspot.
 ![started.jpg](./images/started.jpg)
 
 ## Technologies
-* Tech 1 - Jupyter Notebook
-* Tech 2 - PgAdmin
-* Tech 3 - GitHub
+* Jupyter Notebook
+* PgAdmin
+* GitHub
 
 ## Sources
 [Kaggle](https://www.kaggle.com/)
@@ -92,18 +95,21 @@ After checking for tables we used pandas to load our new 2018 & 2019 csv/json co
 
 ![ETLwithPandas.PNG](./images/ETLwithPandas.PNG)
 ![postgresSQL2.png](./images/postgresSQL2.png)
+![jupnote.png](./images/jupnote.png)
+![jup2.png](./images/jup2.png)
 
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+## Code
+* [Data_ETL_World_Happiness.ipynb](Data_ETL_World_Happiness.ipynb)
+* [year_2018.sql](./Resources/year_2018.sql)
+* [year_2019.sql](./Resources/year_2019.sql)
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project Complete
+
+## Acknowledgement
+* Jeff Anderson, Instructor, UTSA Bootcamp for guiding us though the project.
+* [Kaggle: World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness/activity)
+* [README.md Template Inspiration ](https://github.com/ritaly/README-cheatsheet/edit/master/README.md) 
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
