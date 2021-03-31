@@ -14,7 +14,7 @@
 * [Project Proposal](#Project-Proposal)
 * [Getting Started](#Getting-Started)
 * [Technologies](#technologies)
-* [Source](#source)
+* [Sources](#sources)
 * [Data Clean-Up](#data-clean-up)
 * [ETL Visualization](#ETL-Visualization)
 * [Inspiration](#inspiration)
