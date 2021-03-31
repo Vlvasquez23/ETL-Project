@@ -2,7 +2,8 @@
 
 ## Project Name:
 > World Happiness Report
-(images/WHReport.png)
+
+(./images/WHReport.png)
 
 ## Team Members: 
 * Dustin Osterman
