@@ -14,9 +14,9 @@
 * [Project Proposal](#Project-Proposal)
 * [Getting Started](#Getting-Started)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
+* [Source](#source)
+* [Data Clean-Up](#data-clean-up)
+* [ETL Visualization](#ETL-Visualization)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
@@ -86,7 +86,7 @@ We performed our ETL data on the 2018 and 2019 csv file. We cleaned our data by 
 
 After checking for tables we used pandas to load our new 2018 & 2019 csv/json converted DataFrame into the database. We then confirmed that the data has been added by querying the 2018 & 2019 table.
 
-## Features
+## ETL Visualization
 List of features ready and TODOs for future development
 * Awesome feature 1
 * Awesome feature 2
