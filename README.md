@@ -6,19 +6,21 @@
 ![joy.jpg](./images/joy.jpg)
 
 ## Team Members: 
-* Dustin Osterman
-* Mary Scruggs
-* Vanessa Vasquez
+* [Dustin Osterman](https://github.com/dosterman09)
+* [Mary Scruggs](https://github.com/mcasiano1)
+* [Vanessa Vasquez](https://github.com/Vlvasquez23)
 
 ## Table of contents
 * [Project Proposal](#Project-Proposal)
 * [Getting Started](#Getting-Started)
 * [Technologies](#technologies)
-* [Source](#source)
+* [Sources](#sources)
 * [Data Clean-Up](#data-clean-up)
 * [ETL Visualization](#ETL-Visualization)
+* [Code](#Code)
+* [Status](#Status)
+* [Acknowledgement](#Acknowledgement)
 * [Inspiration](#inspiration)
-* [Contact](#contact)
 
 # Project Proposal
 Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
@@ -73,13 +75,16 @@ Please upload the report to Github and submit a link to Bootcampspot.
 ![started.jpg](./images/started.jpg)
 
 ## Technologies
-* Tech 1 - Jupyter Notebook
-* Tech 2 - PgAdmin
-* Tech 3 - GitHub
+* Jupyter Notebook
+* PgAdmin
+* GitHub
 
-## Source
-[Kaggle](https://www.kaggle.com/unsdsn/world-happiness/activity)
-*https://www.kaggle.com/unsdsn/world-happiness/activity
+## Sources
+[Kaggle](https://www.kaggle.com/)
+
+* [Kaggle: World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness/activity)
+* [2018.csv](./Resources/2018.csv)
+* [2019.csv](./Resources/2019.csv)
 
 ## Data Clean-Up
 We performed our ETL data on the 2018 and 2019 csv file. We cleaned our data by using jupyter notebook to drop columns to create a new data set with select column of Overall rank, Country or region & score. We then merged our two data sets and added a “Year” column to differentiate which data was for 2018 and 2019. After connecting to our local postgres database we created our tables and columns into pgadmin.
@@ -89,18 +94,24 @@ After checking for tables we used pandas to load our new 2018 & 2019 csv/json co
 ## ETL Visualization
 
 ![ETLwithPandas.PNG](./images/ETLwithPandas.PNG)
+![postgresSQL2.png](./images/postgresSQL2.png)
+![jupnote.png](./images/jupnote.png)
+![jup2.PNG](./images/jup2.PNG)
+![slide21.PNG](./images/slide21.PNG)
+![finalslide.png](./images/finalslide.png)
 
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+## Code
+* [Data_ETL_World_Happiness.ipynb](Data_ETL_World_Happiness.ipynb)
+* [year_2018.sql](./Resources/year_2018.sql)
+* [year_2019.sql](./Resources/year_2019.sql)
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project Complete
+
+## Acknowledgement
+* Jeff Anderson, Instructor, UTSA Bootcamp for guiding us though the project.
+* [Kaggle: World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness/activity)
+* [README.md Template Inspiration ](https://github.com/ritaly/README-cheatsheet/edit/master/README.md) 
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
