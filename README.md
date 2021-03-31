@@ -91,7 +91,7 @@ After checking for tables we used pandas to load our new 2018 & 2019 csv/json co
 ## ETL Visualization
 
 ![ETLwithPandas.PNG](./images/ETLwithPandas.PNG)
-![postgresSQL.png](./images/postgresSQL.png)
+![postgresSQL2.png](./images/postgresSQL2.png)
 
 List of features ready and TODOs for future development
 * Awesome feature 1
