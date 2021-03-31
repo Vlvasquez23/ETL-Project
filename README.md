@@ -78,9 +78,9 @@ Please upload the report to Github and submit a link to Bootcampspot.
 * Tech 3 - GitHub
 
 ## Sources
-[Kaggle](https://www.kaggle.com/unsdsn/world-happiness/activity)
+[Kaggle](https://www.kaggle.com/)
 
-* https://www.kaggle.com/unsdsn/world-happiness/activity
+* ![Kaggle: World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness/activity)
 * [2018.csv](./Resources/2018.csv)
 * [2019.csv](./Resources/2019.csv)
 
