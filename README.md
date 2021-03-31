@@ -88,7 +88,7 @@ After checking for tables we used pandas to load our new 2018 & 2019 csv/json co
 
 ## ETL Visualization
 
-![ETLwithPandas.png](./images/ETLwithPandas.png)
+![ETLwithPandas.PNG](./images/ETLwithPandas.PNG)
 
 List of features ready and TODOs for future development
 * Awesome feature 1
