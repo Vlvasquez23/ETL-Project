@@ -79,7 +79,7 @@ Please upload the report to Github and submit a link to Bootcampspot.
 
 ## Source
 [Kaggle](https://www.kaggle.com/unsdsn/world-happiness/activity)
-https://www.kaggle.com/unsdsn/world-happiness/activity
+*https://www.kaggle.com/unsdsn/world-happiness/activity
 
 ## Data Clean-Up
 We performed our ETL data on the 2018 and 2019 csv file. We cleaned our data by using jupyter notebook to drop columns to create a new data set with select column of Overall rank, Country or region & score. We then merged our two data sets and added a “Year” column to differentiate which data was for 2018 and 2019. After connecting to our local postgres database we created our tables and columns into pgadmin.
@@ -87,6 +87,9 @@ We performed our ETL data on the 2018 and 2019 csv file. We cleaned our data by 
 After checking for tables we used pandas to load our new 2018 & 2019 csv/json converted DataFrame into the database. We then confirmed that the data has been added by querying the 2018 & 2019 table.
 
 ## ETL Visualization
+
+![ETLwithPande.png](./images/ETLwithPande.png)
+
 List of features ready and TODOs for future development
 * Awesome feature 1
 * Awesome feature 2
@@ -102,5 +105,3 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 ## Inspiration
 Add here credits. Project inspired by..., based on...
 
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
