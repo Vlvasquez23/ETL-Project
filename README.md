@@ -73,12 +73,13 @@ Please upload the report to Github and submit a link to Bootcampspot.
 ![started.jpg](./images/started.jpg)
 
 ## Technologies
-* Tech 1 - 
-* Tech 2 - version 2.0
-* Tech 3 - 
+* Tech 1 - Jupyter Notebook
+* Tech 2 - PgAdmin
+* Tech 3 - GitHub
 
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
+## Source
+[Kaggle](https://www.kaggle.com/unsdsn/world-happiness/activity)
+https://www.kaggle.com/unsdsn/world-happiness/activity
 
 ## Code Examples
 Show examples of usage:
