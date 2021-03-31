@@ -81,9 +81,10 @@ Please upload the report to Github and submit a link to Bootcampspot.
 [Kaggle](https://www.kaggle.com/unsdsn/world-happiness/activity)
 https://www.kaggle.com/unsdsn/world-happiness/activity
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+## Data Clean-Up
+We performed our ETL data on the 2018 and 2019 csv file. We cleaned our data by using jupyter notebook to drop columns to create a new data set with select column of Overall rank, Country or region & score. We then merged our two data sets and added a “Year” column to differentiate which data was for 2018 and 2019. After connecting to our local postgres database we created our tables and columns into pgadmin.
+
+After checking for tables we used pandas to load our new 2018 & 2019 csv/json converted DataFrame into the database. We then confirmed that the data has been added by querying the 2018 & 2019 table.
 
 ## Features
 List of features ready and TODOs for future development
