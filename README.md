@@ -18,7 +18,6 @@
 * [Data Clean-Up](#data-clean-up)
 * [ETL Visualization](#ETL-Visualization)
 * [Inspiration](#inspiration)
-* [Contact](#contact)
 
 # Project Proposal
 Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
@@ -92,6 +91,7 @@ After checking for tables we used pandas to load our new 2018 & 2019 csv/json co
 ## ETL Visualization
 
 ![ETLwithPandas.PNG](./images/ETLwithPandas.PNG)
+![postgresSQL.png](./images/postgresSQL.png)
 
 List of features ready and TODOs for future development
 * Awesome feature 1
